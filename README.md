@@ -5,3 +5,6 @@ Using Javascript and leaflet we have marked in an interactive map where earthqua
 Depending on the magnitude, the colour and size of circle markers varies. From Green(low) to red(high). 
 
 Only step 1 was completed. 
+
+
+refer to index.html to run
